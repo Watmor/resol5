@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1082770611516",
+    "firebase_url": "https://resol2-default-rtdb.firebaseio.com",
+    "project_id": "resol2",
+    "storage_bucket": "resol2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082770611516:android:7de1e7237b2d19f5475239",
+        "android_client_info": {
+          "package_name": "com.example.resol2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMh-b2D8qCa2ivdYOsiJZOAvgHLifjSCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082770611516:android:7e37add38fa9e7b4475239",
+        "android_client_info": {
+          "package_name": "com.example.resol5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMh-b2D8qCa2ivdYOsiJZOAvgHLifjSCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
