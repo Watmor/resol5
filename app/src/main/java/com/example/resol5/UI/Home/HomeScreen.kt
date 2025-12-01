@@ -1,4 +1,4 @@
-package com.example.resol5
+package com.example.resol5.UI.Home
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding

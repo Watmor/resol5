@@ -1,4 +1,4 @@
-package com.example.resol5.ui.theme
+package com.example.resol5.UI.Theme
 
 import androidx.compose.ui.graphics.Color
 
