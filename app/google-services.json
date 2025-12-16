@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1073214742494",
-    "project_id": "resol5-4eebe",
-    "storage_bucket": "resol5-4eebe.firebasestorage.app"
+    "project_number": "636145955060",
+    "project_id": "resolapp-5cce4",
+    "storage_bucket": "resolapp-5cce4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1073214742494:android:d4c2cae587be2f9d36474f",
+        "mobilesdk_app_id": "1:636145955060:android:504d4bc91b6e72545beea1",
         "android_client_info": {
           "package_name": "com.example.resol5"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB9DyHcIgTJSUQeSdjc4dmvcBRF3xklZMI"
+          "current_key": "AIzaSyCf_ImcGju7LskiVO5GungbR0PSz8gfQPw"
         }
       ],
       "services": {

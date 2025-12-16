@@ -59,8 +59,10 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
-    implementation("com.google.firebase:firebase-database-ktx")
-    implementation(platform("com.google.firebase:firebase-bom:32.7.0"))
-    implementation("androidx.navigation:navigation-compose:2.7.7")
+    implementation("com.google.firebase:firebase-firestore")
+    implementation("com.google.firebase:firebase-analytics")
+    implementation(platform("com.google.firebase:firebase-bom:33.7.0"))
+    implementation("io.coil-kt:coil-compose:2.5.0")
+
     //implementation("com.google.firebase:firebase-dynamic-module-support:16.0.0-beta04") // do not know if this work
 }
